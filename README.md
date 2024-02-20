@@ -2,11 +2,23 @@
 
 ## Introduction:
 
-Greetings! In this exciting Cyclistic bike-share analysis, I, a junior data analyst at Cyclistic in Chicago, delve into the intriguing world of user behavior. The mission? Uncover how annual members and casual riders interact with Cyclistic bikes differently. The end goal? Craft a killer marketing strategy to turn those casual riders into long-term annual members. Get ready to tag along on this data-driven adventure as we navigate real-world challenges and collaborate with Cyclistic's dynamic team.
+Welcome to the Cyclistic bike-share analysis case study! In this endeavor, I'll be taking on the role of a junior data analyst on Cyclistic's marketing team. I am excited to embark on this journey of uncovering valuable insights to drive the company's growth.
+
+In my capacity as a junior data analyst at Cyclistic, my primary objective is to support the company's strategic goal of increasing annual memberships. This involves a meticulous examination of the behavior and preferences exhibited by two vital customer segments: casual riders and annual members. By conducting comprehensive data analysis and crafting insightful visualizations, our aim is to uncover actionable insights that will inform the development of a targeted marketing approach, specifically tailored to convert casual riders into loyal annual members. Following the structured framework of the six phases in the data analysis process, our ultimate aim is to deliver compelling recommendations backed by robust data, thereby securing buy-in from Cyclistic's executives. Through this process, we aspire to propel Cyclistic towards its overarching vision of becoming a trailblazer in urban mobility, championing sustainable transportation practices within Chicago's vibrant bike-sharing ecosystem.
 
 ## Background — About the Company:
 
 Picture this: Cyclistic, a bike-share program with a whopping 5,800 bicycles and 600 docking stations, cruising the streets of Chicago. What sets it apart? Inclusivity. We're not just about regular bikes – we've got reclining bikes, hand tricycles, and cargo bikes, catering to everyone, including folks with disabilities. Most riders go for the classic bikes, but 8% love the assistive options. Whether it's a leisurely ride or a daily commute, Cyclistic is the go-to.
+
+## ASK
+
+Three questions will guide the future marketing program: 
+
+  1. How do annual members and casual riders use Cyclistic bikes differently? 
+
+  2. Why would casual riders buy Cyclistic annual memberships? 
+
+  3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Business Task — Marketing Strategy:
 
