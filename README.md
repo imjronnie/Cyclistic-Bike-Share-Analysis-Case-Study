@@ -20,13 +20,14 @@ Three questions will guide the future marketing program:
 
   3. How can Cyclistic use digital media to influence casual riders to become members?
 
-## Key Stakeholders:
+## Characters & Teams:
 
-  <b>Lily Moreno:</b> the Director of Marketing at Cyclistic. Plays a central role in driving marketing initiatives.
+  <b>Lily Moreno:</b> The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
-  <b>Cyclistic Executive Team:</b> Holds the authority to approve or reject marketing programs based on financial impact and strategic alignment.
+  <b>Cyclistic Executive Team:</b> A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy learning about Cyclistic’s mission and business goals—as well as how you, as a junior data analyst, can help Cyclistic achieve them.
 
-  <b>Cyclistic Marketing Analytics Team:</b> The internal Marketing Analytics Team, consisting of data analysts, collaborates closely on data analysis.  
+
+  <b>Cyclistic Marketing Analytics Team:</b> The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program  
 
 ## Prepare Data
 
