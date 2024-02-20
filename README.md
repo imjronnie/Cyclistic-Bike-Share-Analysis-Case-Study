@@ -24,9 +24,9 @@ Three questions will guide the future marketing program:
 
   <b>Lily Moreno:</b> the Director of Marketing at Cyclistic. Plays a central role in driving marketing initiatives.
 
-  Cyclistic Executive Team: Holds the authority to approve or reject marketing programs based on financial impact and strategic alignment.
+  <b>Cyclistic Executive Team:</b> Holds the authority to approve or reject marketing programs based on financial impact and strategic alignment.
 
-  Cyclistic Marketing Analytics Team: The internal Marketing Analytics Team, consisting of data analysts, collaborates closely on data analysis.  
+  <b>Cyclistic Marketing Analytics Team:</b> The internal Marketing Analytics Team, consisting of data analysts, collaborates closely on data analysis.  
 
 ## Prepare Data
 
