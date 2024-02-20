@@ -20,9 +20,13 @@ Three questions will guide the future marketing program:
 
   3. How can Cyclistic use digital media to influence casual riders to become members?
 
-## Business Task — Marketing Strategy:
+## Key Stakeholders:
 
-Here's the deal: our annual membership numbers are stuck. Lily Moreno, our marketing guru, wants answers. My job? Figure out how casual riders and annual members are different. Why? So we can cook up a genius marketing plan to turn casual riders into annual members. But wait, there's a catch – the big shots at Cyclistic need to give the nod. That means my recommendations better be backed by data wizardry and slick visualizations. The plan? Dive deep into Cyclistic's historical bike trip data, spot trends, and unveil the secrets of our riders. Let's craft a strategy that not only makes sense but also propels Cyclistic to new heights. Stick around for a journey through data, insights, and the makings of Cyclistic's future success.
+  <b>Lily Moreno:</b> the Director of Marketing at Cyclistic. Plays a central role in driving marketing initiatives.
+
+  Cyclistic Executive Team: Holds the authority to approve or reject marketing programs based on financial impact and strategic alignment.
+
+  Cyclistic Marketing Analytics Team: The internal Marketing Analytics Team, consisting of data analysts, collaborates closely on data analysis.  
 
 ## Prepare Data
 
