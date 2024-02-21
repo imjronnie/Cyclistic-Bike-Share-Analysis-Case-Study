@@ -20,7 +20,15 @@ Three questions will guide the future marketing program:
 
   3. How can Cyclistic use digital media to influence casual riders to become members?
 
-## Characters & Teams:
+###  Business Task
+
+The main objective of this case study is to look closely at the bike-sharing data we have. We want to understand how annual members are different from casual riders. This understanding will help us create better plans to attract more casual riders to become annual members, which is important for Cyclistic's growth.
+
+I'll dig into the data about bike trips that people have taken in the past. By doing this, I hope to find out what makes annual members and casual riders use our bikes in different ways. This information will be super useful for Cyclistic to figure out how to convince casual riders to become regular members.
+
+I'll also look into what makes casual riders decide to become annual members. Understanding this can help us figure out how to influence more casual riders to make the switch. My findings and suggestions will be used to improve Cyclistic's marketing strategy and reach our goals.
+
+### key Stakeholders
 
   <b>Lily Moreno:</b> The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
