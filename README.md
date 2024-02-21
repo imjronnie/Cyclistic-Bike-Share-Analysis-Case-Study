@@ -28,7 +28,7 @@ I'll dig into the data about bike trips that people have taken in the past. By d
 
 I'll also look into what makes casual riders decide to become annual members. Understanding this can help us figure out how to influence more casual riders to make the switch. My findings and suggestions will be used to improve Cyclistic's marketing strategy and reach our goals.
 
-### key Stakeholders
+### Key Stakeholders
 
   <b>Lily Moreno:</b> The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
@@ -38,6 +38,13 @@ I'll also look into what makes casual riders decide to become annual members. Un
   <b>Cyclistic Marketing Analytics Team:</b> The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program  
 
 ## Prepare Data
+
+### Data Source
+
+I'll be using Cyclistic's past trip data from January 2023 to December 2023, which I downloaded from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). This data is provided by Motivate International Inc. under a certain [license](https://divvybikes.com/data-license-agreement).
+
+This information helps us understand how various types of customers use Cyclistic bikes. However, we need to be careful about privacy. We can't link individual purchases to credit card numbers or figure out if casual riders live near Cyclistic stations or if they've bought many single passes. We'll focus on general trends without getting into specific personal details.
+
 
 #### Code for combining 11 CSV files into one in R
 ```r
