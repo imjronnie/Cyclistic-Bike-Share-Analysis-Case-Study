@@ -45,6 +45,8 @@ I'll be using Cyclistic's past trip data from January 2023 to December 2023, whi
 
 This information helps us understand how various types of customers use Cyclistic bikes. However, we need to be careful about privacy. We can't link individual purchases to credit card numbers or figure out if casual riders live near Cyclistic stations or if they've bought many single passes. We'll focus on general trends without getting into specific personal details.
 
+The data was formatted as a CSV file. It is structured data organized in rows and columns. After obtaining a sample of the 12 months' worth of data, I conducted an initial examination to gain insights into the data. This dataset consists of 13 columns, including the ride IDs, bike type, start and end times, start and end station identifiers such as name and location, and rider member type. I merged these files into a single table.
+
 
 #### Code for combining 11 CSV files into one in R
 ```r
