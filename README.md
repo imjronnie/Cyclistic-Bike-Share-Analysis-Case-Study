@@ -6,7 +6,7 @@ Welcome to the Cyclistic bike-share analysis case study! In this endeavor, I'll 
 
 In my capacity as a junior data analyst at Cyclistic, my primary objective is to support the company's strategic goal of increasing annual memberships. This involves a meticulous examination of the behavior and preferences exhibited by two vital customer segments: casual riders and annual members. By conducting comprehensive data analysis and crafting insightful visualizations, our aim is to uncover actionable insights that will inform the development of a targeted marketing approach, specifically tailored to convert casual riders into loyal annual members. Following the structured framework of the six phases in the data analysis process, our ultimate aim is to deliver compelling recommendations backed by robust data, thereby securing buy-in from Cyclistic's executives. Through this process, we aspire to propel Cyclistic towards its overarching vision of becoming a trailblazer in urban mobility, championing sustainable transportation practices within Chicago's vibrant bike-sharing ecosystem.
 
-## Background — About the Company:
+## Background — Insight into the Company:
 
 Picture this: Cyclistic, a bike-share program with a whopping 5,800 bicycles and 600 docking stations, cruising the streets of Chicago. What sets it apart? Inclusivity. We're not just about regular bikes – we've got reclining bikes, hand tricycles, and cargo bikes, catering to everyone, including folks with disabilities. Most riders go for the classic bikes, but 8% love the assistive options. Whether it's a leisurely ride or a daily commute, Cyclistic is the go-to.
 
